@@ -1,9 +1,0 @@
-site:<the website> intext:<whatever you're looking for in the text>
-	Ex. site:instagram.com intext:admin
-
-site:<the website> inurl:<whatever you want to be in the url>
-	Ex. site:instagram.com inurl:admin
-
-intitle:<"whatever you want the title to be">
-	Ex. intitle:<"webcamxp 5">
-
